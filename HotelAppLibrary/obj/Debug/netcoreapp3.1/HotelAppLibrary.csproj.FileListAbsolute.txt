@@ -1,0 +1,54 @@
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb

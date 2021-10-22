@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column EndDate in table [dbo].[Bookings] is currently  DATETIME2 (7) NOT NULL but is being changed to  DATE
+         NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  DATE
+         NOT NULL.
+       The type for column StartDate in table [dbo].[Bookings] is currently  DATETIME2 (7) NOT NULL but is being changed to 
+         DATE NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type 
+         DATE NOT NULL.
+
+** User actions
+     Alter
+       [dbo].[Bookings] (Table)
+
+** Supporting actions
+
+The type for column EndDate in table [dbo].[Bookings] is currently  DATETIME2 (7) NOT NULL but is being changed to  DATE NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  DATE NOT NULL.
+The type for column StartDate in table [dbo].[Bookings] is currently  DATETIME2 (7) NOT NULL but is being changed to  DATE NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  DATE NOT NULL.
+

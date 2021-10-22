@@ -1,0 +1,438 @@
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson23_RazorPagesProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson24_RoomSearchPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson25_BookRoomPage_2\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookRoom.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookRoom.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookRoom.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookRoom.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.exe
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.deps.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.runtimeconfig.dev.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.AssemblyInfo.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorAssemblyInfo.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.Manifest.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\staticwebassets\HotelAppUI.StaticWebAssets.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelAppUI.styles.css
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.input.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.TagHelpers.output.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorCoreGenerate.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookRoom.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\RoomSearch.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.Views.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.csproj.CopyComplete
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 3\HotelApp - Joris van Laar\HotelAppUI\obj\Debug\netcoreapp3.1\HotelAppUI.genruntimeconfig.cache

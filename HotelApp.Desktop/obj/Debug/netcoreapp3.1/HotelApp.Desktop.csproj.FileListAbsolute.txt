@@ -1,0 +1,214 @@
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson26_WPFProjectCreation\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson27_SearchForm_2\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csprojAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckInForm.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\Module09Lesson28_CheckInForm\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckInForm.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckInForm.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckInForm.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\HotelApp - Joris van Laar\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.AssemblyReference.cache

@@ -1,0 +1,60 @@
+﻿@model HotelAppUI.Models.RoomSearchModel
+@{
+    ViewData["Title"] = "Room Search";
+}
+
+<h1>Room Search</h1><br />
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="@Model.StartDate"></label>
+        <input asp-for="@Model.StartDate" />
+        <span asp-validation-for="@Model.StartDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.EndDate"></label>
+        <input asp-for="@Model.EndDate" />
+        <span asp-validation-for="@Model.EndDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model.AvailableRoomTypes?.Count > 0)
+{
+    <br />
+    <h2>Results</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Room Type</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var room in Model.AvailableRoomTypes)
+            {
+            <tr>
+                <td>
+                    <strong>@room.Title</strong><br />
+                    @room.Description
+                </td>
+                <td>@string.Format("{0:C}", room.Price)</td>
+                <td>
+                    <a asp-action="BookRoom" 
+                        asp-route-roomtypeid="@room.Id"
+                        asp-route-startdate="@Model.StartDate.ToString("yyyy-MM-dd")"
+                        asp-route-enddate="@Model.EndDate.ToString("yyyy-MM-dd")"> 
+                        Select
+                    </a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

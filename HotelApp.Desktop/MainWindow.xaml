@@ -1,0 +1,70 @@
+﻿<Window x:Class="HotelApp.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelApp.Desktop"
+        mc:Ignorable="d" FontSize="20" FontFamily="Segoe UI"
+        Title="Search Today's Bookings" Height="500" Width="800">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" 
+                   Text="Guest Last Name" FontSize="24" />
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0">
+            <TextBox x:Name="lastNameText" MinWidth="200" Margin="5" />
+            <Button x:Name="searchForGuest" Margin="5" Padding="5"
+                    Click="SearchForGuest_Click">Search</Button>
+        </StackPanel>
+        <ListBox x:Name="resultsList" Grid.Row="2" Grid.Column="0" 
+                 Margin="5 20 5 5" ItemsSource="{Binding}" MaxHeight="300" 
+                 ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal" Grid.Row="0">
+                            <TextBlock FontWeight="Bold" Margin="5">Reservation:</TextBlock>
+                            <TextBlock Text="{Binding FirstName}" Margin="5" />
+                            <TextBlock Text="{Binding LastName}" Margin="5" />
+                        </StackPanel>
+                        <Button x:Name="checkIn" Margin="5" Padding="10" Grid.Row="0" Grid.Column="1" 
+                                Grid.RowSpan="4" VerticalAlignment="Center"
+                                Click="CheckIn_Click">Check-In</Button>
+                        <StackPanel Orientation="Horizontal" Grid.Row="1">
+                            <TextBlock FontWeight="Bold" Margin="5">Room:</TextBlock>
+                            <TextBlock Text="{Binding Title}" Margin="5" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="2">
+                            <TextBlock FontWeight="Bold" Margin="5">Room Number:</TextBlock>
+                            <TextBlock Text="{Binding RoomNumber}" Margin="5" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="3">
+                            <TextBlock FontWeight="Bold" Margin="5">Total Cost:</TextBlock>
+                            <TextBlock Text="{Binding TotalCost, StringFormat='c'}" Margin="5" />
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Bookings] (Table)
+       [dbo].[Guests] (Table)
+       [dbo].[Rooms] (Table)
+       [dbo].[RoomTypes] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Bookings] (Default Constraint)
+       [dbo].[FK_Bookings_Rooms] (Foreign Key)
+       [dbo].[FK_Bookings_Guests] (Foreign Key)
+       [dbo].[FK_Rooms_RoomTypes] (Foreign Key)
+
+** Supporting actions
